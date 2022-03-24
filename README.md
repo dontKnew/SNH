@@ -3,15 +3,6 @@
 > You can download this project and run your local machine (computer)
 <hr>
 
-# Demo Picutres :
-<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/loggedHomePage.png"/>
-<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/loginpage.png"/>
-<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/victimpage.png"/>
-<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/contactpage.png"/>
-<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/createaccount.png"/>
-<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/toutrialpage.png"/>
-<hr>
-
 ## Project Features :
 
 | Public User can view the webiste structure|
@@ -32,6 +23,13 @@
 |  Many more features, you can checkout at your local machine|
 | ------------- |
 
+## Demo Picutres :
+<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/loggedHomePage.png"/>
+<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/loginpage.png"/>
+<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/victimpage.png"/>
+<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/contactpage.png"/>
+<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/createaccount.png"/>
+<img src="https://github.com/dontKnew/SNH/blob/main/images/githubImage/toutrialpage.png"/>
 
 ## Technology Used :
 > * PHP & MYSQL Database
