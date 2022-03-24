@@ -1,0 +1,26 @@
+#header { 
+    height: 35px;
+    background-color: rgb( 252, 255, 209 );
+    text-decoration:none;
+    font-size:14px;
+    }
+    .fa-mobile-alt{
+    font-size : 25px;
+    }
+    .point {
+    position: relative;
+    top:-2px;
+    left:0px;
+    color:black;
+    font-weight: bold;
+    font-size:13px;
+    }
+    
+    .ahm {
+    font-size:12px;
+    }
+    
+    .lang{
+    font-size : 13px;
+    
+    }
